@@ -33,6 +33,7 @@ A curated list of awesome React Native libraries, packages, and tools.
 - [NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible component library for React Native
 - [UI Kitten](https://github.com/akveo/react-native-ui-kitten) - React Native UI Library based on Eva Design System
 - [Shoutem UI](https://github.com/shoutem/ui) - Customizable set of components for React Native applications
+- [React Native Text Avatar](https://github.com/hicay/react-native-text-avatar) - Gmail-style initials avatar with stable colors per name, multiple shapes and light/dark variants
 
 ## Networking
 
